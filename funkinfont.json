@@ -1,0 +1,18 @@
+{
+  "spec": 1,
+  "name": "fnf font",
+  "description": "Friday Night Funkin font pack",
+  "main": {
+    "ggsans-Normal": "https://github.com/euzinho00000888-hue/Teste-/raw/refs/heads/main/FridayNightFunkin-Regular.ttf",
+    "ggsans-NormalItalic": "https://github.com/euzinho00000888-hue/Teste-/raw/refs/heads/main/FridayNightFunkin-Regular.ttf",
+    "ggsans-Medium": "https://github.com/euzinho00000888-hue/Teste-/raw/refs/heads/main/FridayNightFunkin-Regular.ttf",
+    "ggsans-MediumItalic": "https://github.com/euzinho00000888-hue/Teste-/raw/refs/heads/main/FridayNightFunkin-Regular.ttf",
+    "ggsans-Semibold": "https://github.com/euzinho00000888-hue/Teste-/raw/refs/heads/main/FridayNightFunkin-Regular.ttf",
+    "ggsans-SemiboldItalic": "https://github.com/euzinho00000888-hue/Teste-/raw/refs/heads/main/FridayNightFunkin-Regular.ttf",
+    "ggsans-Bold": "https://github.com/euzinho00000888-hue/Teste-/raw/refs/heads/main/Pizza%20Time.ttf",
+    "ggsans-BoldItalic": "https://github.com/euzinho00000888-hue/Teste-/raw/refs/heads/main/Pizza%20Time.ttf",
+    "ggsans-ExtraBold": "https://github.com/euzinho00000888-hue/Teste-/raw/refs/heads/main/Pizza%20Time.ttf",
+    "ggsans-ExtraBoldItalic": "https://github.com/euzinho00000888-hue/Teste-/raw/refs/heads/main/Pizza%20Time.ttf",
+    "SourceCodePro-Semibold": "https://github.com/euzinho00000888-hue/Teste-/raw/refs/heads/main/Pizza%20Time.ttf"
+  }
+}
