@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="GuiaFamiliaCompleto">
+
+  <!-- ========================================== -->
+  <!-- 1. CADASTRO DE TODOS OS CANAIS (LOGOS)     -->
+  <!-- ========================================== -->
+  <!-- Seus Canais de Desenhos -->
+  <channel id="DiscoveryKids.br"><display-name lang="pt">Discovery Kids</display-name><icon src="https://githubusercontent.com" /></channel>
+  <channel id="CartoonNetwork.br"><display-name lang="pt">Cartoon Network</display-name><icon src="https://githubusercontent.com" /></channel>
+  <channel id="Gloob.br"><display-name lang="pt">Gloob</display-name><icon src="https://githubusercontent.com" /></channel>
+  <channel id="Gloobinho.br"><display-name lang="pt">Gloobinho</display-name><icon src="https://githubusercontent.com" /></channel>
+
+  <!-- Canais da sua Mãe -->
+  <channel id="Globo.br"><display-name lang="pt">Globo</display-name><icon src="https://githubusercontent.com" /></channel>
+  <channel id="SBT.br"><display-name lang="pt">SBT</display-name><icon src="https://githubusercontent.com" /></channel>
+  <channel id="Record.br"><display-name lang="pt">Record TV</display-name><icon src="https://githubusercontent.com" /></channel>
+  <channel id="PlutoNovelas.tv"><display-name lang="pt">Pluto TV Novelas</display-name><icon src="https://pluto.tv" /></channel>
+  <channel id="PlutoCineSucessos.tv"><display-name lang="pt">Pluto TV Cine Sucessos</display-name><icon src="https://pluto.tv" /></channel>
+
+  <!-- ========================================== -->
+  <!-- 2. PROGRAMAÇÃO EM EXIBIÇÃO AGORA           -->
+  <!-- ========================================== -->
+
+  <!-- DISCOVERY KIDS -->
+  <programme start="20261011093000 -0300" stop="20261011110000 -0300" channel="DiscoveryKids.br">
+    <title lang="pt">O Show da Luna! / Peppa Pig</title>
+    <desc lang="pt">Maratona de desenhos educativos e divertidos no Discovery Kids.</desc>
+    <category lang="pt">Infantil / Educativo</category>
+  </programme>
+
+  <!-- CARTOON NETWORK -->
+  <programme start="20261011093000 -0300" stop="20261011110000 -0300" channel="CartoonNetwork.br">
+    <title lang="pt">Os Jovens Titãs em Ação!</title>
+    <desc lang="pt">Robin e os Titãs entram em competições absurdas e hilárias na torre.</desc>
+    <category lang="pt">Desenho Animado / Comédia</category>
+  </programme>
+
+  <!-- GLOOB -->
+  <programme start="20261011093000 -0300" stop="20261011110000 -0300" channel="Gloob.br">
+    <title lang="pt">Miraculous: As Aventuras de Ladybug</title>
+    <desc lang="pt">Ladybug e Cat Noir salvam o dia contra mais um vilão akumatizado.</desc>
+    <category lang="pt">Animação / Ação</category>
+  </programme>
+
+  <!-- GLOBINHO -->
+  <programme start="20261011093000 -0300" stop="20261011110000 -0300" channel="Gloobinho.br">
+    <title lang="pt">Mya Go / Trulli Tales</title>
+    <desc lang="pt">Desenhos calmos e historinhas mágicas para começar a manhã.</desc>
+    <category lang="pt">Infantil</category>
+  </programme>
+
+  <!-- GLOBO -->
+  <programme start="20261011093000 -0300" stop="20261011123000 -0300" channel="Globo.br">
+    <title lang="pt">Esporte Espetacular</title>
+    <desc lang="pt">As principais notícias do mundo dos esportes, reportagens especiais e bastidores.</desc>
+    <category lang="pt">Esporte / Jornalismo</category>
+  </programme>
+
+  <!-- SBT -->
+  <programme start="20261011093000 -0300" stop="20261011110000 -0300" channel="SBT.br">
+    <title lang="pt">Notícias Impressionantes</title>
+    <desc lang="pt">Vídeos curiosos, flagrantes inacreditáveis e histórias que bombaram na internet.</desc>
+    <category lang="pt">Entretenimento</category>
+  </programme>
+
+  <!-- RECORD -->
+  <programme start="20261011093000 -0300" stop="20261011121500 -0300" channel="Record.br">
+    <title lang="pt">Todo Mundo Odeia o Chris</title>
+    <desc lang="pt">Maratona de domingo com as desventuras do jovem Chris crescendo no Brooklyn.</desc>
+    <category lang="pt">Série / Comédia</category>
+  </programme>
+
+  <!-- PLUTO NOVELAS -->
+  <programme start="20261011093000 -0300" stop="20261011113000 -0300" channel="PlutoNovelas.tv">
+    <title lang="pt">Maratona de Novelas Latino-Americanas</title>
+    <desc lang="pt">Grandes histórias de drama, romance, segredos de família e muitas reviravoltas.</desc>
+    <category lang="pt">Novela / Drama</category>
+  </programme>
+
+  <!-- PLUTO CINE SUCESSOS -->
+  <programme start="20261011093000 -0300" stop="20261011113000 -0300" channel="PlutoCineSucessos.tv">
+    <title lang="pt">Filme: Romance de Domingo</title>
+    <desc lang="pt">Uma linda e emocionante história de amor para acompanhar e relaxar no final de semana.</desc>
+    <category lang="pt">Filme / Romance</category>
+  </programme>
+
+</tv>
