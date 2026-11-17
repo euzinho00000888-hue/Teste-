@@ -1,0 +1,14 @@
+{
+	"id": "abcdefghijklmnopqrstuvwxyz.my-theme",
+	"name": "My Theme",
+	"description": "My Theme, a dark theme made with the Unbound theme maker.",
+	"authors": [
+		{
+			"name": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+			"id": "1554993546392633366"
+		}
+	],
+	"version": "1.0.0",
+	"icon": "PaintPaletteIcon",
+	"main": "bundle.json"
+}
